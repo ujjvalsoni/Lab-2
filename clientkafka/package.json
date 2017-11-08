@@ -1,0 +1,22 @@
+{
+  "name": "clientkafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "delete": "^1.1.0",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0",
+    "kafka-node": "^2.2.3",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.12.4",
+    "mv": "^2.1.1",
+    "nodemon": "^1.12.1"
+  }
+}
